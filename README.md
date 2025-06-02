@@ -62,12 +62,9 @@
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Clerk-003D5E.svg?style=flat-square&logo=clerk"/>
     </td>
   </tr>
 
@@ -83,7 +80,7 @@
     </td>
   </tr>
 
-  <tr>
+  <!--<tr>
     <td><strong>AI / ML Libraries</strong></td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
@@ -98,15 +95,12 @@
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
     </td>
-  </tr>
+  </tr>-->
 </table>
 
 ## 🤝 Connect with me!!
-
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/riancorci)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riancorcino)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rian.corcino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giao-u-a0962119a)
 
 ## 🧋 Favorite boba
 
-it's brown sugar
+Brown Sugar Miltea with Boba and Tiramisu Cheese Foam!
