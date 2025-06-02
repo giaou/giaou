@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=giaou&show_icons=true&theme=tokyonight" 
     alt="Giao's GitHub stats" 
     height="150"
   />
