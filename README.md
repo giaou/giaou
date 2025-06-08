@@ -65,17 +65,17 @@
     </td>
   </tr>-->
 
-  <tr>
+ <!-- <tr>
     <td><strong>Databases & Cloud</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
       <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/ChromaDB-FF00FF?style=flat-square"/>
     </td>
-  </tr>
+  </tr>-->
 
   <!--<tr>
     <td><strong>AI / ML Libraries</strong></td>
